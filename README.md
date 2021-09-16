@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @svanwoerkom
 - 👀 I’m interested in coding and makeing developer life easier
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning everything possible.
+- 💞️ I’m looking to collaborate with developers.
 - 📫 How to reach me steven.vanwoerkom@finicity.com
 
 <!---
